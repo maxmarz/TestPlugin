@@ -1,0 +1,8 @@
+{
+      "name":"TestPlugin",
+      "description":"PluginFuerTestzwecke",
+      "namespace":"HelloWorld",
+      "author":"Maximilian",
+      "type":"template",
+      "serviceProvider":"HelloWorld\\Providers\\HelloWorldServiceProvider"
+}
